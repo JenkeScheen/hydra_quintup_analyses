@@ -21,3 +21,5 @@ nRing
 nRot
 MW
 TopoPSA
+naRing
+nHRing
